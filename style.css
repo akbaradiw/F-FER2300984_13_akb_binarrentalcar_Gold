@@ -1,0 +1,10 @@
+.checked {
+  color: orange;
+}
+
+#birumobil {
+  border-top-left-radius: 100px;
+  background-color: blue;
+  width: 576px;
+  height: 243px;
+}
